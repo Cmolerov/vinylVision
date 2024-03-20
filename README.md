@@ -17,6 +17,10 @@ VinylVision is a web application designed for vinyl enthusiasts to manage their 
 - **Database**: PostgreSQL with Sequelize ORM for data storage and management.
 - **Frontend**: React for building dynamic and interactive user interfaces.
 
+## Product Design Sketch (Figma)
+
+![Screenshot 2024-03-19 at 8 36 46 PM](https://github.com/Cmolerov/vinylVision/assets/68914791/8dd7db1d-e92f-4a48-9336-43f4718ae433)
+
 
 ## Contributing
 
